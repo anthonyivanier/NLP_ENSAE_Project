@@ -4,4 +4,4 @@ Work on Socface project data (https://socface.site.ined.fr) to predict sex from 
 
 Class of 2023-2024
 
-Machine Learning for NLP class, teached by Mr.Kermorvant
+Machine Learning for NLP class, taught by Mr.Kermorvant
